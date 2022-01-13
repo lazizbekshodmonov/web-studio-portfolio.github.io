@@ -540,7 +540,7 @@ a{
 }
 .portfolio-item:hover .animation-section{
     height: 100%;
-    padding: 3.9375rem 1.5rem;
+    /* padding: 3.9375rem 1.5rem; */
     
 }
 
